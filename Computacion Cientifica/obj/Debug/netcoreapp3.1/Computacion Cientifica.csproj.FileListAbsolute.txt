@@ -1,0 +1,15 @@
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.csprojAssemblyReference.cache
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion_Cientifica.Form1.resources
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.csproj.GenerateResource.cache
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.AssemblyInfoInputs.cache
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.AssemblyInfo.cs
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.csproj.CoreCompileInputs.cache
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\bin\Debug\netcoreapp3.1\Computacion Cientifica.exe
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\bin\Debug\netcoreapp3.1\Computacion Cientifica.deps.json
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\bin\Debug\netcoreapp3.1\Computacion Cientifica.runtimeconfig.json
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\bin\Debug\netcoreapp3.1\Computacion Cientifica.runtimeconfig.dev.json
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\bin\Debug\netcoreapp3.1\Computacion Cientifica.dll
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\bin\Debug\netcoreapp3.1\Computacion Cientifica.pdb
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.dll
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.pdb
+C:\Users\Jesenia\Documents\Computacion Cientifica Practicas\Computacion Cientifica\Computacion Cientifica\obj\Debug\netcoreapp3.1\Computacion Cientifica.genruntimeconfig.cache
